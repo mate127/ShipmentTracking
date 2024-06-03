@@ -1,0 +1,1 @@
+Connection string za spajanje na bazu u API-u je generic i treba ga zamijeniti sa pravim.

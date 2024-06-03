@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vKFWgxumd2FwsuByZSkm/h+pGEiQb6NuokR+v2oDPVk=",
+  "Source": "ShipmentTrackingAPI",
+  "BasePath": "_content/ShipmentTrackingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

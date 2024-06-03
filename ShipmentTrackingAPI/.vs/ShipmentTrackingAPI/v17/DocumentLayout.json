@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|c:\\users\\mates\\onedrive\\desktop\\shipmenttracking\\shipmenttrackingapi\\shipmenttrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|solutionrelative:shipmenttrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|c:\\users\\mates\\onedrive\\desktop\\shipmenttracking\\shipmenttrackingapi\\shipmenttrackingapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|solutionrelative:shipmenttrackingapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|c:\\users\\mates\\onedrive\\desktop\\shipmenttracking\\shipmenttrackingapi\\shipmenttrackingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|solutionrelative:shipmenttrackingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|c:\\users\\mates\\onedrive\\desktop\\shipmenttracking\\shipmenttrackingapi\\shipmenttrackingapi\\data\\shipmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|solutionrelative:shipmenttrackingapi\\data\\shipmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|c:\\users\\mates\\onedrive\\desktop\\shipmenttracking\\shipmenttrackingapi\\shipmenttrackingapi\\models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAC029B-ADC7-49D4-B007-7C247E6AC965}|ShipmentTrackingAPI\\ShipmentTrackingAPI.csproj|solutionrelative:shipmenttrackingapi\\models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ShipmentTrackingAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ShipmentTrackingAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:20:07.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ShipmentTrackingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\appsettings.json",
+              "RelativeToolTip": "ShipmentTrackingAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T16:16:49.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipmentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\Data\\ShipmentDbContext.cs",
+              "RelativeDocumentMoniker": "ShipmentTrackingAPI\\Data\\ShipmentDbContext.cs",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\Data\\ShipmentDbContext.cs",
+              "RelativeToolTip": "ShipmentTrackingAPI\\Data\\ShipmentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:15:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\Models\\Shipment.cs",
+              "RelativeDocumentMoniker": "ShipmentTrackingAPI\\Models\\Shipment.cs",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\Models\\Shipment.cs",
+              "RelativeToolTip": "ShipmentTrackingAPI\\Models\\Shipment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:15:14.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ShipmentTrackingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\ShipmentTracking\\ShipmentTrackingAPI\\ShipmentTrackingAPI\\Program.cs",
+              "RelativeToolTip": "ShipmentTrackingAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:13:49.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
